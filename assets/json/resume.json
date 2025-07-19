@@ -46,6 +46,15 @@
   ],
   "education": [
     {
+      "institution": "Weston College",
+      "location": "Weston-super-Mare, UK",
+      "url": "https://www.weston.ac.uk",
+      "area": "IT Practitioners",
+      "studyType": "Extended Diploma",
+      "endDate": "2017",
+      "score": "Distinction *"
+    },
+    {
       "institution": "City St. George's, University of London",
       "location": "London, UK",
       "url": "https://www.citystgeorges.ac.uk",
@@ -54,16 +63,8 @@
       "endDate": "2025",
       "score": "2:1",
       "courses": ["Project Management", "Advanced Algorithms and Data Structures", "Cryptography", "Introduction to Artificial Intelligence", "Programming and Mathematics for Artificial Intelligence", "Advanced Databases", "Computer Graphics", "Theory of Computation", "Data Visualization", "Network Security", "Advanced Programming: Concurrency", "Functional Programming", "Cloud Computing", "Data Structures and Algorithms", "Language Processors", "Computer Networks", "Object-Oriented Analysis and Design", "Professional Development in IT", "Team Project", "Programming in C++", "Computation and Reasoning", "Mathematics for Computing", "Software Engineering", "Systems Architecture", "Programming in Java", "Business Systems"]
-    },
-    {
-      "institution": "Weston College",
-      "location": "Weston-super-Mare, UK",
-      "url": "https://www.weston.ac.uk",
-      "area": "IT Practitioners",
-      "studyType": "Extended Diploma",
-      "endDate": "2017",
-      "score": "Distinction *"
     }
+
   ],
   "skills": [
     {
