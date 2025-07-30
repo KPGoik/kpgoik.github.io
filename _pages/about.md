@@ -24,8 +24,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-This site is a work in progress, and will be completed very soon.
+Master's Computer Science Graduate from City St. George's, University of London.
 
-Any information here, except my [CV](https://kpgoik.github.io/cv/) is inaccurate and should be **entirely disregarded**. The only reason this page is active is to make for easier prototyping testing of Github pages on mobile and desktop.
+Passionate about Software Development, AI, Project Management. In my free time, I travel, take bad photos, listen to [music](https://volt.fm/kgoik), and play [competitive games](https://www.start.gg/user/d51a9e43).
 
-For now, feel free to contact me via [email](mailto:kpgoik@gmail.com). Thanks!
+Click [here](https://kpgoik.github.io/cv/) to view my CV. Click [here](https://www.linkedin.com/in/kgoik) to view my LinkedIn and get in touch.
+
